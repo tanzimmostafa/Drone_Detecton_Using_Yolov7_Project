@@ -1,4 +1,4 @@
-# Drone_Vs_Bird_Detecton_YOLOv7
+# Drone_Detecton_YOLOv7
 
 This is an experimental project on Drone Vs Bird Detection using the Yolov7 model. The original dataset size has been reduced significantly and hence the performance is not the best. However, the code works fine.
 
