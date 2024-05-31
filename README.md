@@ -16,7 +16,7 @@
   Remarks: Performance should improve by training for more epochs.
 <br><br>
 
-### Drone Vs Bird Detection
+### 2) Drone Vs Bird Detection
    
   This is an experimental project on Drone Vs Bird Detection using the Yolov7 model. The original dataset size has been reduced significantly and hence the performance is not the best. However, the code works fine.
   
