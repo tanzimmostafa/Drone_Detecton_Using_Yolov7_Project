@@ -12,7 +12,7 @@
   The Yolov7 model has been run for 150 epochs and evaluated using the metrics: mAP@0.5 and mAP@0.5:0.95. 
   
   Remarks: Performance should improve by training for more epochs.
-
+<br><br>
 
 2) **Drone Vs Bird Detection**
    
