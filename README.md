@@ -18,7 +18,7 @@
 
 ### 2) Drone Vs Bird Detection
    
-  This is an experimental project on Drone Vs Bird Detection using the Yolov7 model. The original dataset size has been reduced significantly and hence the performance is not the best. However, the code works fine.
+  This is an experimental project on Drone Vs Bird Detection using the Yolov7 model. The original dataset size has been reduced significantly and hence the performance is not the best. However, the code works fine and has been included in the repository.
   
   The orginal dataset is from the following [Link](https://data.mendeley.com/datasets/6ghdz52pd7/5).
   
