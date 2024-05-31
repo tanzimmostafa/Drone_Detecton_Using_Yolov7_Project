@@ -2,7 +2,7 @@
 
 ## There are 2 Projects in this repository
 
-1) **Drone Detection:**
+### 1) Drone Detection:
   This project is on Drone detection using the Yolov7 model.
   
   The code file in ipynb format can be found at the following [Google Drive Link](https://drive.google.com/drive/folders/14nUQls3w6fYLnxioCTzFTJ7jZQ2cnz3V?usp=sharing).
@@ -16,7 +16,7 @@
   Remarks: Performance should improve by training for more epochs.
 <br><br>
 
-2) **Drone Vs Bird Detection**
+### Drone Vs Bird Detection
    
   This is an experimental project on Drone Vs Bird Detection using the Yolov7 model. The original dataset size has been reduced significantly and hence the performance is not the best. However, the code works fine.
   
