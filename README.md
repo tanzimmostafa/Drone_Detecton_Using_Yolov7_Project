@@ -1,4 +1,6 @@
-# Drone_Detecton_YOLOv7
+# Drone_Detecton_YOLOv7_Projects
+
+## There are 2 Projects in this repository
 
 1) **Drone Detection:**
   This project is on Drone detection using the Yolov7 model.
